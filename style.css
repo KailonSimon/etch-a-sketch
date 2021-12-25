@@ -1,0 +1,16 @@
+.container {
+    height: 800px;
+    width: 800px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.square {
+    border: solid 1px;
+    float: left;
+    box-sizing: border-box;
+}
+button {
+    margin: auto;
+    height: 40px;
+    width: 120px;
+}
